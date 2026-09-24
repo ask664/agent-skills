@@ -1,0 +1,4 @@
+[
+  {"id": "P100", "name": "Sample notebook", "price": "4.50", "currency": "USD"},
+  {"id": "P200", "name": "Sample pencil", "price": "1.25", "currency": "USD"}
+]
