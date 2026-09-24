@@ -1,0 +1,30 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "calculator script arguments",
+  "type": "object",
+  "properties": {
+    "operation": {
+      "type": "string",
+      "enum": [
+        "add",
+        "subtract",
+        "multiply",
+        "divide"
+      ]
+    },
+    "a": {
+      "type": "string",
+      "description": "Finite decimal number"
+    },
+    "b": {
+      "type": "string",
+      "description": "Finite decimal number"
+    }
+  },
+  "required": [
+    "operation",
+    "a",
+    "b"
+  ],
+  "additionalProperties": false
+}
