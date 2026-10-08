@@ -269,4 +269,6 @@ attach it explicitly, and repeat the pull and execution checks.
 - [Agentregistry pull and source pinning](https://aregistry.ai/docs/skills/pull/)
 - [Older arctl v0.3.3 skill commands](https://pkg.go.dev/github.com/agentregistry-dev/agentregistry@v0.3.3/internal/cli/skill)
 - [kagent 0.x Git skills](https://www.kagent.dev/docs/kagent/0.x/concepts/agents/)
+
+# ashok manda
 - [kagent 1.x alpha skills](https://kagent.dev/docs/kagent/1.x/skills-and-mcp/skills/)
