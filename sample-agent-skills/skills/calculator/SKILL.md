@@ -17,3 +17,5 @@ and request corrected operands. Decimal results use 28 significant digits.
 
 Example: `python3 scripts/calculate.py multiply 12.5 8` returns `{"result": "100.0"}`.
 If execution is unavailable, explain that this skill needs a script execution tool.
+
+# ashok manda
